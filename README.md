@@ -105,7 +105,7 @@ nothing to commit, working tree clean
 
 Isso quer dizer que o seu repositório está igualzinho à versão que você baixou do Github.
 Vá em frente e edite esse o arquivo `README.md`, conserte algum erro ou modifique algo que não gostou e salve ele.
-Feito isso, digite de novo:
+#Feito isso, digite de novo:
 
 `git status`
 
@@ -131,7 +131,7 @@ Em alguns terminais esse arquivo aparece até em cor vermelha para indicar isso.
 
 Para indicar para o git que esse arquivo que foi modificado deve ser enviado ao servidor mais tarde, adicionamos ele à área de staging.
 Essa é uma área de preparação, onde colocamos as modificações que serão salvas no servidor.
-Para fazer isso basta escrevermos:
+#Para fazer isso basta escrevermos:
 
 `git add README.md`
 
@@ -547,4 +547,6 @@ De qualquer maneira é sempre bom rodar os testes mais uma vez antes de fazer um
 
 ## Aceitar um pull request
 
+
+HAHAHHAHAHAHAHAHAH
 
